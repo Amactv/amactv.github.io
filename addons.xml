@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-    <addon id="repository.mcfenlight" name="McFenlight Repository" version="1.0.3" provider-name="McMoobud">
+    <addon id="repository.mcfenlight" name="McFenlight Repository" version="1.0.4" provider-name="amactv">
         <requires>
             <import addon="xbmc.addon" version="21.0.0"/>
         </requires>
         <extension point="xbmc.addon.repository" name="McFenlight Repository">
             <dir minversion="21.0.0">
-                <info compressed="false">https://mcmoobud.github.io/mcfenrepo/addons.xml</info>
-                <checksum>https://mcmoobud.github.io/mcfenrepo/addons.xml.md5</checksum>
-                <datadir zipped="true">https://mcmoobud.github.io/mcfenrepo/</datadir>
+                <info compressed="false">https://amactv.github.io/addons.xml</info>
+                <checksum>https://amactv.github.io/addons.xml.md5</checksum>
+                <datadir zipped="true">https://amactv.github.io/</datadir>
             </dir>
         </extension>
         <extension point="xbmc.addon.metadata">
@@ -17,7 +17,7 @@
             <platform>all</platform>
         </extension>
     </addon>
-    <addon id="plugin.video.mcfenlight" name="McFenlight" provider-name="McMoobud" version="2.3.5">
+    <addon id="plugin.video.mcfenlight" name="McFenlight" provider-name="amactv" version="2.3.6">
         <requires>
             <import addon="xbmc.python" version="3.0.0"/>
             <import addon="script.module.pil" version="1.1.7"/>
@@ -42,7 +42,7 @@
             <news>INFO: For latest changes see Changelog within Tools of add-on.</news>
         </extension>
     </addon>
-    <addon id="script.mcfenlight.setup" name="McFenlight Setup" version="1.1.3" provider-name="McMoobud">
+    <addon id="script.mcfenlight.setup" name="McFenlight Setup" version="1.1.4" provider-name="amactv">
         <requires>
             <import addon="xbmc.python" version="3.0.0"/>
         </requires>
@@ -58,7 +58,7 @@
                 </assets>
         </extension>
     </addon>
-    <addon id="service.mcfenlight.backgrounds" name="McFenlight Backgrounds" version="1.0.4" provider-name="McMoobud">
+    <addon id="service.mcfenlight.backgrounds" name="McFenlight Backgrounds" version="1.0.4" provider-name="amactv">
         <requires>
             <import addon="xbmc.python" version="3.0.0" />
         </requires>
@@ -72,7 +72,7 @@
             </assets>
         </extension>
     </addon>
-    <addon id="script.mcfenlight.emby" name="McFenlight Emby Setup" version="1.0.1" provider-name="McMoobud">
+    <addon id="script.mcfenlight.emby" name="McFenlight Emby Setup" version="1.0.1" provider-name="amactv">
         <requires>
             <import addon="xbmc.python" version="3.0.0"/>
         </requires>

@@ -18,8 +18,8 @@ ADDONS_PATH = xbmcvfs.translatePath('special://home/addons/')
 ADDON_DATA = xbmcvfs.translatePath('special://profile/addon_data/')
 TEMP_PATH = xbmcvfs.translatePath('special://temp/')
 
-REPO_BASE = 'https://mcmoobud.github.io/mcfenrepo/'
-MCFENLIGHT_REPO_ZIP = REPO_BASE + 'repository.mcfenlight/repository.mcfenlight-1.0.3.zip'
+REPO_BASE = 'https://amactv.github.io/'
+MCFENLIGHT_REPO_ZIP = REPO_BASE + 'repository.mcfenlight/repository.mcfenlight-1.0.4.zip'
 COCOSCRAPERS_REPO_ZIP = 'https://raw.githubusercontent.com/CocoJoe2411/repository.cocoscrapers/master/zips/repository.cocoscrapers/repository.cocoscrapers-1.0.0.zip'
 COCOSCRAPERS_ADDON_ZIP = 'https://raw.githubusercontent.com/CocoJoe2411/repository.cocoscrapers/master/zips/script.module.cocoscrapers/script.module.cocoscrapers-1.0.0.zip'
 
