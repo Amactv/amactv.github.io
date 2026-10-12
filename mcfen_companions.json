@@ -1,0 +1,18 @@
+{
+ "repository.mcfenlight": {
+  "sha256": "12e745bd35cd08efda1995d83892729fa8dc90aa2d8ad794f5ef2a72edc3ba07",
+  "version": "1.0.4"
+ },
+ "script.mcfenlight.emby": {
+  "sha256": "d1af96667a4e2df3bd4b3fe9b346fdc2f4cd32a6cdf9ed4179fd41c1cf387ccc",
+  "version": "1.0.1"
+ },
+ "script.mcfenlight.setup": {
+  "sha256": "c7b42c9a2a75bd3f27626979f4419d5710edeaa2282da3913673119dc18f98c1",
+  "version": "1.1.4"
+ },
+ "service.mcfenlight.backgrounds": {
+  "sha256": "e3c4ad1b1ac201c3c120be6949b85fc4bf333d00637ebfebaaca5476e4ac372c",
+  "version": "1.0.4"
+ }
+}
