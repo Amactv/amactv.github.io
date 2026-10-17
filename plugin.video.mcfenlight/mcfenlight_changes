@@ -1,3 +1,7 @@
+[COLOR dodgerblue][B]Version 2.3.9[/B][/COLOR]
+- We can't go any deeper. Extras now keeps one film open at a time and remembers the last 3 for Back.
+- Fixed a bug in the Extras menu that could cause a crash if you browsed through too far.
+
 [COLOR dodgerblue][B]Version 2.3.8[/B][/COLOR]
 - I'll be back... with updates. McFen now keeps its repository and helper add-ons up to date by itself - nothing to click.
 - Ready for Kodi 22 - menus and lists now load on the new version.
